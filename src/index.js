@@ -13,9 +13,8 @@ const App = ()=>{
         <ApprovalCard>
             <div>
                 <h4>Warning</h4>
-                <p>
-        
-        </div>
+                Are you sure , you want to do this?
+            </div>
         </ApprovalCard>
             <ApprovalCard>
             <CommentDetail author="sam" time="Today at 6.00 PM" content="nice blog post!"  /></ApprovalCard>
